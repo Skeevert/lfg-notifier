@@ -5,6 +5,11 @@ Waiting for the dungeon to be found may be long and tiresome, but some World of 
 * Java 8 or later
 * World of Warcraft configured to display in a borderless window or windowed mode, as on my system the game stops event processing if it's minimized from a full-screen mode
 
+## How to install
+* Download the latest release archive from the "releases" section of this repository
+* Install the LFGNotifier add-on from the "addon" directory. The process is similar to that of other World of Warcraft add-ons
+* Unpack the "application" directory where you like and rename it if you wish. The application is launched by executing the lfg-notifier.bat file in the "bin" directory if you're on Windows, and the lfg-notifier file in the same directory if you're on another OS
+
 ## How to use
 The notifier system consists of two parts: the notifier application and a World of Warcraft add-on. To start getting notifications, install the LFGNotifier add-on (don't forget to enable it), launch the notifier application, select your World of Warcraft screenshots directory (more about this later), optionally configure it to your taste (by default it only shows a warning dialog window when the dungeon is found), start monitoring for an LFG proposal, and fire the dungeon finder in the game (the order of the last two steps may be changed).
 
