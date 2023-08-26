@@ -1,0 +1,7 @@
+## Interface: 100105
+## Version: 1.0.0
+## Title: LFG notifier
+## Notes: Makes a screenshot when the LFG is proposed
+## Author: fa11_1eaf
+
+LFGNotifier.lua
